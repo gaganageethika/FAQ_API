@@ -25,7 +25,7 @@ A Django-based FAQ Management System with multi-language support, WYSIWYG editor
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/faq_project.git
+   git clone https://github.com/gaganageethika/FAQ_API.git
 2. Install Dependencies:
    ```bash
    pip install -r requirements.txt
