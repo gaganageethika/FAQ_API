@@ -1,0 +1,19 @@
+[
+  "faq_app/tests.py::FAQCacheTest::test_cache_population",
+  "faq_app/tests.py::FAQCacheTest::test_caching",
+  "faq_app/tests.py::FAQModelTest::test_fallback_to_english",
+  "faq_app/tests.py::FAQModelTest::test_faq_creation",
+  "faq_app/tests.py::FAQModelTest::test_translation_Bengali",
+  "faq_app/tests.py::FAQModelTest::test_translation_fields_populated",
+  "faq_app/tests.py::FAQModelTest::test_translation_hindi",
+  "faq_app/tests.py::FAQViewSetTest::test_create_faq",
+  "faq_app/tests.py::FAQViewSetTest::test_delete_faq",
+  "faq_app/tests.py::FAQViewSetTest::test_empty_faq_list",
+  "faq_app/tests.py::FAQViewSetTest::test_fetch_faqs_Bengali",
+  "faq_app/tests.py::FAQViewSetTest::test_fetch_faqs_bengali",
+  "faq_app/tests.py::FAQViewSetTest::test_fetch_faqs_english",
+  "faq_app/tests.py::FAQViewSetTest::test_fetch_faqs_hindi",
+  "faq_app/tests.py::FAQViewSetTest::test_fetch_faqs_telugu",
+  "faq_app/tests.py::FAQViewSetTest::test_invalid_language_parameter",
+  "faq_app/tests.py::FAQViewSetTest::test_update_faq"
+]

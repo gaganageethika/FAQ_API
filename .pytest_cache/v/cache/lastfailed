@@ -1,0 +1,4 @@
+{
+  "faq_app/tests.py::FAQCacheTest::test_caching": true,
+  "faq_app/tests.py::FAQViewSetTest::test_fetch_faqs_telugu": true
+}
