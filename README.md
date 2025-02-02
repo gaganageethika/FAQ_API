@@ -66,8 +66,8 @@ A Django-based FAQ Management System with multi-language support, WYSIWYG editor
 ## Admin Panel
 
 
-1.     ```bash
-       python manage.py createsuperuser
+1. ```bash
+   python manage.py createsuperuser
     
 2.  Access the admin panel at http://localhost:8000/admin/.
     
